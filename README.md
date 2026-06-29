@@ -29,4 +29,6 @@ Yeni başladı, zamanla büyüyecek. Amacım mükemmel bir arşiv değil, **düz
 
 ---
 
-*Batuhan. Şu an [kankaverse.com](https://kankaverse.com) (topluluk platformu) ve Nexpsend (kişisel finans) üzerinde çalışıyorum.*
+*Batuhan. Önce [NexSpend](https://play.google.com/store/apps/details?id=com.nexspend.finance&hl=tr)'i
+(kişisel finans, Google Play'de yayında) yaptım, şimdi [kankaverse.com](https://kankaverse.com)
+(topluluk platformu) üzerinde çalışıyorum.*
